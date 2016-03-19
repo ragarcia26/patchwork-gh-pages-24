@@ -1,0 +1,22 @@
+# Site settings
+title: Rickmeista's Profile
+email: ragarcia26@miners.utep.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+baseurl: "/project-gh-pages"
+url: "http://ragarcia26.github.io"
+twitter_username: sicoby
+github_username:  ragarcia26
+twitch_username: sicoby
+permalink: /blog/:year/:title/
+
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+collections:
+    - index
