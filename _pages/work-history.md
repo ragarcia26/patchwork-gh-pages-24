@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work History
-permalink: /work-history/
+permalink: patchwork-gh-pages-24/work-history/
 ---
 
 ## Web Developer
